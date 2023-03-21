@@ -73,4 +73,3 @@ def arithmetic_arranger(raw, result=False):
 
     return(arranged_problems)
 
-print(arithmetic_arranger(["337 + 4" , "7 - 346", "473 + 5", "888 - 8", "5 - 2"], True))
